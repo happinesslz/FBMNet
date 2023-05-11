@@ -5,7 +5,9 @@
 FBMNet frees up the heavy dependency of a projection matrix adopted for most existing multi-modal 3D detection methods by **box matching strategy**. Most importantly, FBMNet possesses superior robustness for the following challenging cases:
 
 **1) Temporal Asynchronous between LiDAR and Camera sensors;**
+
 **2) Spatial  Misalignment including inaccurate calibration or misaligned sensor placement when deployment;**
+
 **3)  Degenerated Images including dropped images or heavily disturbed images;**
 
 ![FBMNet](figs/intro.png)
