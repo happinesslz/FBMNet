@@ -1,6 +1,7 @@
 # Multi-Modal 3D Object Detection by Box Matching (FBMNet)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/multi-modal-3d-object-detection-by-box/3d-object-detection-on-nuscenes)](https://paperswithcode.com/sota/3d-object-detection-on-nuscenes?p=multi-modal-3d-object-detection-by-box)
 
-Paper Link: [FBMNet](https://arxiv.org/pdf/2305.07713.pdf)
+This repository is an official implementation of: [FBMNet](https://arxiv.org/pdf/2305.07713.pdf)
 ## Highlights
 
 FBMNet frees up the heavy dependency of a projection matrix adopted for most existing multi-modal 3D detection methods by **box matching strategy**. Most importantly, FBMNet possesses superior robustness for the following challenging cases:
