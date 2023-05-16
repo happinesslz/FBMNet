@@ -1,5 +1,6 @@
 # Multi-Modal 3D Object Detection by Box Matching (FBMNet)
 
+Paper Link: [FBMNet](https://arxiv.org/pdf/2305.07713.pdf)
 ## Highlights
 
 FBMNet frees up the heavy dependency of a projection matrix adopted for most existing multi-modal 3D detection methods by **box matching strategy**. Most importantly, FBMNet possesses superior robustness for the following challenging cases:
@@ -29,6 +30,21 @@ For more experiments, please refer to our paper.
 ## Acknowledgement
 
 We sincerely thank the authors of [mmdetection3d](https://github.com/open-mmlab/mmdetection3d), [CenterPoint](https://github.com/tianweiy/CenterPoint), [TransFusion](https://github.com/XuyangBai/TransFusion), [MVP](https://github.com/tianweiy/MVP), [BEVFusion](https://github.com/ADLab-AutoDrive/BEVFusion) and [BEVFusion](https://github.com/mit-han-lab/bevfusion). 
+
+
+
+## Citation
+If you find this work useful in your research, please consider cite:
+```
+@article{liu2023multimodal,
+      title={Multi-Modal 3D Object Detection by Box Matching}, 
+      author={Zhe Liu and Xiaoqing Ye and Zhikang Zou and Xinwei He and Xiao Tan and Errui Ding and Jingdong Wang and Xiang Bai},
+      year={2023},
+      eprint={2305.07713},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
 
 
 
